@@ -43,6 +43,7 @@ Full fledged music notation software to create, edit, and play score sheet music
 
 * [MuseScore](https://musescore.org/) - open source music notation app and score ecosystem
 * [Capella](https://www.capella-software.com/) - commercial
+* [Mozart](https://www.mozart.co.uk/) - commercial
 * [Dorico](https://www.steinberg.net/dorico/) - commercial
 * [Finale](https://www.finalemusic.com/) - commercial
 * [Sibelius](https://www.avid.com/sibelius) - commercial
